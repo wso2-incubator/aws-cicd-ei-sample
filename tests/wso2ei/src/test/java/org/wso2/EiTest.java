@@ -36,7 +36,7 @@ import java.util.concurrent.TimeUnit;
 // * This class tests the HelloWorld Rest endpoint
 // */
 //
-public class eiTest {
+public class EiTest {
     @Test public static void main(String[] args) {
         int exitCode=1;
         try {
